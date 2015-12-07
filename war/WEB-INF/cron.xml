@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cronentries>
+
+ <cron>
+    <url>/stock_price</url>
+    <description>Get stock price every hour</description>
+    <schedule>every 60 minutes</schedule>
+  </cron> 
+  
+</cronentries>
